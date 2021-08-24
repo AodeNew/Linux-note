@@ -1,7 +1,6 @@
 Linux 常用命令 不断更新中。。。。。。
-
-  修改网络配置文件，文件地址：/etc/sysconfig/network-scripts/ifcfg-eth0
-  ------------------------------------------------
+修改网络配置文件，文件地址：/etc/sysconfig/network-scripts/ifcfg-eth0
+------------------------------------------------
   主要修改以下配置：  
   TYPE=Ethernet               //网络类型
   BOOTPROTO=static            //静态IP
