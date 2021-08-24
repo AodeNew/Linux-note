@@ -1,3 +1,6 @@
+# 0day
+* 各种开源CMS 各种版本的漏洞以及EXP 该项目将不断更新
+## 为什么发起这个项目？
 # Linux 常用命令  不断更新中
 * 修改网络配置文件，文件地址：/etc/sysconfig/network-scripts/ifcfg-eth0
 * 主要修改以下配置：
