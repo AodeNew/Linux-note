@@ -1,1 +1,1 @@
-# Linux-note
+Linux 学习笔记 不断更新中。。。。。。
