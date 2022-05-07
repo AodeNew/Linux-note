@@ -102,3 +102,11 @@ eg: tar -zxvf nmap-3.45.tgz //将这个解压到nmap-3.45这个目录里
 20.finger 可以让使用者查询一些其他使用者的资料
 eg: finger //查看所用用户的使用资料
 finger root //查看root的资料
+
+nmap -sS -v -sV -p 1-65535 IP # ping目标有回复时
+
+nmap -sS -v -sV -p 1-65535 -Pn IP # ping目标没有回复时
+
+sudo yum install java-11-openjdk -y  centos7 安装java
+
+sudo apt-get install openjdk-11-jre -y   Ubuntu 安装java
